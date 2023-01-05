@@ -1,0 +1,33 @@
+.tweet {
+    padding: 10px;
+    width: 50%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid grey;
+    background: rgb(198, 214, 231);
+}
+h2 {
+    text-decoration: none;
+    display: block;
+    padding: 1px;
+    margin: 0;
+    font-size: 1.2rem;
+}
+h3 {
+    text-decoration: none;
+    display: block;
+    padding: 1px;
+    margin: 0;
+    font-size: 1rem;
+}
+p {
+    display: block;
+    padding: 1px;
+    margin: 0;
+    font-size: 1.2rem;
+}
+.date {
+    font-size: .7rem;
+}
+.tweet:hover {
+    background-color:rgb(167, 202, 233);
+}
